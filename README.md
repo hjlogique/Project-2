@@ -40,6 +40,10 @@ N/A
 ## Questions
     
 For Questions or Comments please reach out to:
+
+Email: hjlogique@yahoo.com
+[https://hjlogique.github.io](https://hjlogique.github.io)
+
 Email: eamenatt@gmail.com
 [https://eamenatt.github.io](https://eamenatt.github.io)
   
