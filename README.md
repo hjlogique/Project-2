@@ -41,7 +41,8 @@ N/A
     
 For Questions or Comments please reach out to:
 
-Email: hjlogique@yahoo.com (hjlogique@yahoo.com)
-Github: [https://github.com/hjlogique](https://github.com/hjlogique)
+Email: hjlogique@yahoo.com 
+
+Github: [https://github.com/hjlogique]
 
   
