@@ -43,6 +43,6 @@ For Questions or Comments please reach out to:
 
 Email: hjlogique@yahoo.com 
 
-Github: [https://github.com/hjlogique]
+Github: https://github.com/hjlogique
 
   
